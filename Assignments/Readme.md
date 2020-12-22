@@ -19,5 +19,7 @@ The purpose of this assignment is to give you a clear picture of how ETL develop
 #### Assignment 7:
 This assignment continues where the previous assignment left off by demonstrating how to load your staged data into the data warehouse using an ETL tool. The tool we will use is called SQL Server Integration Services or SSIS
 
+****Note: Assignment 8 was a part of 7
+
 #### Assignment 9:
 We’ll start with MOLAP development using SQL Server Analysis Services, or SSAS. This will help you understand how the semantic model, where we add additional meaning to our data, helps support business intelligence. After you build your MOLAP cube, you’ll visualize and explore the data with a variety of business intelligence tools such as PowerBi to create interactive reports, charts, maps, and dashboards.
