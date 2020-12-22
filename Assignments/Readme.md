@@ -2,7 +2,7 @@
 
 #### Assignment 2: Introduce you to products and services in the data warehousing space and Learn how to read through marketing materials and determine product offerings
 
-#### Assignment 3:
+#### Assignment 3: The goal of this process is to turn functional business requirements into dimensional data warehouse (DDS) specifications based on the Kimball technical architecture.
 
 #### Assignment 4:
 
