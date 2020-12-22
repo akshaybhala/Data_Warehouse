@@ -1,6 +1,9 @@
-# Data_Warehouse
+# Data Warehouse
 
 ## Project: FUDGE CORPORATION REVENUE ANALYSIS
+
+### Project Flow:
+![alt text](https://github.com/akshaybhala/Data_Warehouse/blob/main/Project/flowchart.png)
 
 <object data="https://github.com/akshaybhala/Data_Warehouse/blob/main/Project/Group%202F%20-%20Final%20Presentation.pptx" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/akshaybhala/Data_Warehouse/blob/main/Project/Group%202F%20-%20Final%20Presentation.pptx">
@@ -13,7 +16,4 @@
         <p>Project Charter: <a href="https://github.com/akshaybhala/Data_Warehouse/blob/main/Project/Group%202F%20-%20Project%20Charter.docx">Download</a>.</p>
     </embed>
 </object>
-
-### Project Flow:
-![alt text](https://github.com/akshaybhala/Data_Warehouse/blob/main/Project/flowchart.png)
 
