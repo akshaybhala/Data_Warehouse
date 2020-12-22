@@ -4,7 +4,7 @@
 
 #### Assignment 3: The goal of this process is to turn functional business requirements into dimensional data warehouse (DDS) specifications based on the Kimball technical architecture.
 
-#### Assignment 4:
+#### Assignment 4: In this assignment we will complete the technical designs for our DDS by completing the specifics of the fact and dimension table implementations
 
 #### Assignment 5:
 
