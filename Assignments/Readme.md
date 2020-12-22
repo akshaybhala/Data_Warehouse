@@ -6,7 +6,7 @@
 
 #### Assignment 4: In this assignment we will complete the technical designs for our DDS by completing the specifics of the fact and dimension table implementations
 
-#### Assignment 5:
+#### Assignment 5: Implemented the physical model (database tables, keys and constraints) for your Details Dimensional-Modeling workbook, and then test that model by performing an initial data load using SQL Queries, a fairly common practice in dimensional model development.
 
 #### Assignment 6:
 
