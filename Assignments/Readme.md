@@ -1,1 +1,15 @@
+#### Assignment 1: This assignment will help you discover how to understand your organization’s data so that you can figure out how to properly build a data warehouse around it.
 
+#### Assignment 2:
+
+#### Assignment 3:
+
+#### Assignment 4:
+
+#### Assignment 5:
+
+#### Assignment 6:
+
+#### Assignment 7:
+
+#### Assignment 9:
